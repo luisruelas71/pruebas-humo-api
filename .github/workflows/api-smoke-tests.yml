@@ -22,3 +22,6 @@ jobs:
 
       - name: Ejecutar pruebas de humo
         run: newman run pruebas_humo_api.json
+
+
+        
